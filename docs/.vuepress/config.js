@@ -1,13 +1,5 @@
 module.exports = {
   title: 'Vuepress-Support',
-  plugins: [
-    [
-      '@vuepress/google-analytics',
-      {
-        'ga': 'UA-146772217-2'
-      }
-    ]
-  ],
   themeConfig: {
     nav: [
         {text: 'Home', link: '/'},
