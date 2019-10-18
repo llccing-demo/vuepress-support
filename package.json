@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ludanxer/vuepress-support.git"
+    "url": "git+https://github.com/llccing-demo/vuepress-support.git"
   },
-  "author": "ludanxer",
+  "author": "llccing-demo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ludanxer/vuepress-support/issues"
+    "url": "https://github.com/llccing-demo/vuepress-support/issues"
   },
-  "homepage": "https://github.com/ludanxer/vuepress-support#readme",
+  "homepage": "https://github.com/llccing-demo/vuepress-support#readme",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.2.0",
     "vuepress": "^1.1.0"
