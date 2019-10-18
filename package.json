@@ -1,10 +1,9 @@
 {
   "name": "vuepress-support",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "docs:dev": "vuepress dev docs --temp .temp",
-    "docs:build": "vuepress build docs",
-    "docs:build --debug": "vuepress build docs --debug"
+    "docs:build": "vuepress build docs --debug"
   },
   "directories": {
     "doc": "docs"
